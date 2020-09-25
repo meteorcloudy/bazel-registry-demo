@@ -1,0 +1,12 @@
+module(
+    name = "grpc",
+    version = "1.27.0",
+    compatibility_level = "1",
+    author = "Dropbox, Inc. Google Inc. Skyscanner Ltd. WeWork Companies Inc.",
+    description = "gRPC - An RPC library and framework",
+)
+
+bazel_dep(name = "c-ares", version = "1.15.0", repo_name = "com_github_cares_cares")
+bazel_dep(name = "re2", version = "2020-03-01", repo_name = "com_github_google_re2") # re2 uses release date as version
+bazel_dep(name = "upb", version = "2020-02-01") # upb has no release, use the commit date as version in the registry
+bazel_dep(name = "zlib", version = "1.2.11")

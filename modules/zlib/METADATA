@@ -1,0 +1,5 @@
+{
+  "maintainer": "A warm-hearted Bazel contributor",
+  "maintainer_email": "goodman@gmail.com",
+  "versions": ["1.2.11"],
+}

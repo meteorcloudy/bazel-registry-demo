@@ -1,0 +1,11 @@
+abseil-cpp
+c-ares
+grpc
+re2
+rules_cc
+rules_jvm_external
+rules_python
+skylib
+stardoc
+upb
+zlib

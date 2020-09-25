@@ -1,0 +1,4 @@
+{
+    "name": "A Bazel registry",
+    "mirror": "https://mirror.bazel.build"
+}
