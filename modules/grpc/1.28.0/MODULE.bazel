@@ -1,6 +1,7 @@
 module(
     name = "grpc",
     version = "1.28.0",
+    license = "Apache-2.0",
     compatibility_level = "1",
     author = "Dropbox, Inc. Google Inc. Skyscanner Ltd. WeWork Companies Inc.",
     description = "gRPC - An RPC library and framework",
