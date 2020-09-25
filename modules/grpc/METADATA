@@ -1,6 +1,7 @@
 {
   "maintainer": "Bazel Team",
   "maintainer_email": "bazel-team@google.com",
+  "homepage": "https://grpc.io",
   "versions": ["1.27.0", "1.28.0", "1.32.0", "1.32.0-1"],
   "yanked_versions": ["1.28.0"],
 }
