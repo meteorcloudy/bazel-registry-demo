@@ -1,0 +1,5 @@
+{
+  "url": "https://github.com/grpc/grpc/archive/v1.32.0.zip",
+  "hash": "42e9e609a9633bc89466986caef30151d26b2ec7c38c66aa77bf4e0ac00e3562",
+  "strip_prefix": "protobuf-1.32.0",
+}

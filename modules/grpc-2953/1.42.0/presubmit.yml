@@ -1,0 +1,13 @@
+platforms:
+  ubuntu1604:
+    build_targets:
+      - //:grpc++
+      - //:grpc++_unsecure
+  windows:
+    build_targets:
+      - //:grpc++
+      - //:grpc++_unsecure
+  macos:
+    build_targets:
+      - //:grpc++
+      - //:grpc++_unsecure
